@@ -124,6 +124,7 @@ Because you'll be doing so much stuff that we haven't taught you yet, this is a 
 * [Kelvin Stone's solution](https://github.com/KelvinStone/blogger) | [View in browser](https://evening-badlands-2352.herokuapp.com/)
 * [Andrew Johnson's solution](https://github.com/ad-johnson/blogger) | [View in browser]
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/blogger.git)
+* [Armin Zierlinger's solution](https://github.com/ArminZierlinger/RubyonRails) | [View in browser](https://calm-basin-45633.herokuapp.com/articles)
 * Add your solution above this line!
 
 
